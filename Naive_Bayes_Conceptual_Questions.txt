@@ -1,0 +1,46 @@
+# 1. Conceptual Questions
+
+1. Explain the bellow terms in 1 line :  
+  a. Universal Set  
+  b. Mutually Exclusive Events  
+  c. Independent Events  
+  d. Conditional Probability  
+  e. Conditionally Independent Events  
+  f. Bayes Theorem  
+  g. Prior, Likelihood, Posterior Probability  
+  h. Hypothesis and Evidence for Likelihood and Posterior Probability 
+  i. Joint Probability Distribution(for independent and non independent events)  
+  
+
+2. Prove that :  $\textsf{P(h|x)p(x)=P(x|h)P(h)}$
+  
+3. Predict the probability Distribution to be used to model the following events  
+  a. Single Coin Tossing Event  
+  b. Number of heads for n coin tosses
+  c. If I take 1 hour to go from Koramangala to Marathalli, What is the probability that I will reach in 1 hour 15 minutes? 
+  d. If I am tossing a coin with bias p=0.8(probability of taking a trip) to decide if I want to go for a trip. How likely is it that I would have 8 trips out of 10 coin tosses?  
+  e. If I am working with french artist who uses blue twice as much as red,green. Then what is the probability that he will pick (red=1,blue=2,green=1) 5 times out of 100 color picks.  
+
+4. I went to Las Vegas from bangaluru for my research conference and went to Belligro Casino, there we saw a machine which gives us money if it shows thumbs up, else it takes back the same amount of money back. The bias of machine starts to change after a point so that we go in loss. Find out a way to estimate the bias of the machine. Can you relate this problem to conjugate prior problem for Beta-Bernoilli pair?
+
+5. If I have to design a machine which shows ads randomly based on user demend(visitation). There are five product catagories for which I want to pick an ad based on the demand. Find out a way to create such a recommender system using Dirichlet-Gamma Conjugate Prior.
+
+6. What is the ideological difference between Generative and Discriminative Models.
+
+7. What is Markovian Property in the markov Chain. Explain it with example of temporal habbits that we form.
+
+8. What is the hypothesis for Gaussian Bayesian Estimate
+
+9. What is a categorical Distribution. Is it different from Binomial Distrbution? Explain.
+
+10. If I were to represent a 5 text documents as an outcome of Multinomial Distribution, explain the catagories in dimension. 
+
+11. What is a multivariate Bernoulli Distribution? What is joint probability in that case? Explain the multivariate bernoulli version of sentiment analysis  
+
+12. Which Naive bayes algorithm should you use for the bellow case :   
+  a. Spam-Non-Spam Classification  
+  b. Document Classification   
+  c. Identify Spamy/erroneous Bit pattern    
+  d. Sentiment analysis of twitter feed  
+  e. Dynamic Recommender System  
+  
